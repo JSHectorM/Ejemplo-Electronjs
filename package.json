@@ -1,0 +1,15 @@
+{
+  "name": "ejemplo-electron",
+  "version": "1.0.0",
+  "description": "Ejemplo Electron FaztWeb",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "author": "Hector MJS",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.0.1",
+    "electron-reload": "^1.5.0"
+  }
+}
