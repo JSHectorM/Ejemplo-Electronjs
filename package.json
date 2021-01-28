@@ -9,7 +9,7 @@
   "author": "Hector MJS",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.0.1",
+    "electron": "^9.4.0",
     "electron-reload": "^1.5.0"
   }
 }
